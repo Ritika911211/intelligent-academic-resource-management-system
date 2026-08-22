@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Intelligent_Academic_Resource_Management_system.png" alt="Intelligent Academic Resource Management System" width="100%">
+  <img src="Intelligent_Academic_Resource_Management_system.jpeg" alt="Intelligent Academic Resource Management System" width="100%">
 </p>
 
 <h1 align="center">Intelligent Academic Resource Management System</h1>
